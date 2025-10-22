@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/NewbornIT-western/simpleToDoList",
+  "homepage": "https://newbornit-western.github.io/simpleToDoList",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
